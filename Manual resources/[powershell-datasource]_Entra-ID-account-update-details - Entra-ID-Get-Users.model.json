@@ -1,26 +1,6 @@
 [
     {
-        "key":  "company",
-        "type":  0
-    },
-    {
-        "key":  "displayName",
-        "type":  0
-    },
-    {
-        "key":  "mobilePhone",
-        "type":  0
-    },
-    {
-        "key":  "department",
-        "type":  0
-    },
-    {
-        "key":  "title",
-        "type":  0
-    },
-    {
-        "key":  "businessPhones",
+        "key":  "id",
         "type":  0
     },
     {
@@ -28,7 +8,31 @@
         "type":  0
     },
     {
+        "key":  "displayName",
+        "type":  0
+    },
+    {
+        "key":  "employeeId",
+        "type":  0
+    },
+    {
+        "key":  "department",
+        "type":  0
+    },
+    {
+        "key":  "jobTitle",
+        "type":  0
+    },
+    {
+        "key":  "companyName",
+        "type":  0
+    },
+    {
         "key":  "mail",
+        "type":  0
+    },
+    {
+        "key":  "mailNickname",
         "type":  0
     },
     {
@@ -37,6 +41,14 @@
     },
     {
         "key":  "surname",
+        "type":  0
+    },
+    {
+        "key":  "businessPhones",
+        "type":  0
+    },
+    {
+        "key":  "mobilePhone",
         "type":  0
     }
 ]
